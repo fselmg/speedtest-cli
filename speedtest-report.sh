@@ -86,3 +86,4 @@ echo -e "Relatório do SpeedTest gerado com sucesso em: $DIRECTORYREPORT/$PAGERE
 # Exemplo do relatório da segunda Interface WAN do SpeedTest
 #/usr/local/bin/speedtest-cli --secure --source=$SOURCE02 --csv >> $DIRECTORYREPORT/$PAGEREPORT02
 #echo -e "Relatório do SpeedTest gerado com sucesso em: $DIRECTORYREPORT/$PAGEREPORT02"
+#
